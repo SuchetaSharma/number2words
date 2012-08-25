@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Java">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v6.0"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Sucheta/SpringMVC/standard.jar/standard.jar"/>
+	<classpathentry kind="lib" path="C:/Sucheta/spring-3.2.0.M1-dist/spring-3.2.0.M1/libs/spring-aop-3.2.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Sucheta/spring-3.2.0.M1-dist/spring-3.2.0.M1/libs/spring-aop-3.2.0.M1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Sucheta/spring-3.2.0.M1-dist/spring-3.2.0.M1/libs/spring-aop-3.2.0.M1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Sucheta/spring-3.2.0.M1-dist/spring-3.2.0.M1/libs/spring-asm-3.2.0.M1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Sucheta/spring-3.2.0.M1-dist/spring-3.2.0.M1/libs/spring-asm-3.2.0.M1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Sucheta/SpringMVC/spring-2.5.6.jar/spring-2.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/IVRCodeBase/ivr_base/CXC1722569-indus/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
